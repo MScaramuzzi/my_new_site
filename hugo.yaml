@@ -1,3 +1,4 @@
+baseURL: "https://Mscaramuzzi.github.io/my_new_site/"
 locale: en-us
 title: My New Hugo Project
 theme: ["PaperMod"]
